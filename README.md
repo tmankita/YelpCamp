@@ -43,4 +43,4 @@ Campground web site that use for sharing  campgrounds that people visited.
 * mongoDB
 #### view engine ejs
 ## Demo
-[link to YelpCampground!](https://secure-inlet-40306.herokuapp.com/campgrounds)
+[link to YelpCampground!](https://secure-inlet-40306.herokuapp.com/)
