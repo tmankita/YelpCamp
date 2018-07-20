@@ -3,7 +3,7 @@ Project at Udemy course by Colt Steele
 #### My first web site
 
 ## Description
-Campground web site that used for sharing  campgrounds that people visited.
+Web site that used for sharing  campgrounds that people visited.
 ### Instructions:
 1. Add a new campground:
 ###### * Only user that login can add a new campground.
